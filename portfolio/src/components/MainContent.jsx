@@ -1,5 +1,6 @@
 import '../styles/components/maincontent.sass';
 import AboutContainer from './AboutContainer';
+import ProjectsContainer from './ProjectsContainer';
 import TecnologiesContainer from './TecnologiesContainer';
 
 const MainContent = () => {
@@ -8,7 +9,7 @@ const MainContent = () => {
       
       <AboutContainer/>
       <TecnologiesContainer/>
-      
+      <ProjectsContainer/>
     </main >
   )
 }
