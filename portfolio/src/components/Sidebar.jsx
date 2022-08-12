@@ -1,8 +1,11 @@
+import Avatar from '../img/me.jpg';
+
+import '../styles/components/sidebar.sass';
 
 const Sidebar = () => {
   return (
     <aside id="sidebar">
-      <p>img</p>
+      <img src={Avatar} alt="Daniele Carnauba" />
       <p className="title">Desenvolvedora Full Stack</p>
       <p>redes sociais</p>
       <p>contato</p>
