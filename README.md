@@ -1,4 +1,4 @@
-# Portifolio
+# Portfolio
 
 ## Começando com `npm create vite@latest`
 
